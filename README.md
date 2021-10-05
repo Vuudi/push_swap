@@ -1,2 +1,2 @@
 # push_swap
-A solution to the push_swap problem in Python
+A naive solution to the push_swap problem in Python
